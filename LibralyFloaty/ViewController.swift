@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var image1: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         floaty.addItem("Sleep", icon: UIImage(named: "moon"))
         floaty.addItem("Music", icon: UIImage(named: "music-player"))
         floaty.addItem("Map", icon: UIImage(named: "map"))
