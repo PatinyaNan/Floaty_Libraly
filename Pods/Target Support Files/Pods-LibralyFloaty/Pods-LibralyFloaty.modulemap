@@ -1,0 +1,6 @@
+framework module Pods_LibralyFloaty {
+  umbrella header "Pods-LibralyFloaty-umbrella.h"
+
+  export *
+  module * { export * }
+}

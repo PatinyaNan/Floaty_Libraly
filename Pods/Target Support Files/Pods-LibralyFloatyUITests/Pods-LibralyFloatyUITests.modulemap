@@ -1,0 +1,6 @@
+framework module Pods_LibralyFloatyUITests {
+  umbrella header "Pods-LibralyFloatyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
